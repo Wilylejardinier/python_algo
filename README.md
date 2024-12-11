@@ -1,4 +1,4 @@
-# python_algo
+# Python_algo
 Bienvenue dans ce repository dédié aux cours de 3ème année en Python et Algorithmie, dispensés à l'ESGI.
 
 ## Description
